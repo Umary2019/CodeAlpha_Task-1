@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "E-commerce API - No Dependencies Required",
+  "main": "minimal-server.js",
+  "scripts": {
+    "start": "node minimal-server.js",
+    "dev": "node minimal-server.js"
+  },
+  "dependencies": {}
+}
